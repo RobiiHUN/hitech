@@ -4,7 +4,7 @@
 #define RFM_CS_PIN 15
 
 RFM12B rfm;
-const int DATA_MAX_LEN = 66; // Az adat maximális hossza (ezt kell beállítanod)
+const int DATA_MAX_LEN = 66; 
 
 
 void setup() {
